@@ -1,6 +1,5 @@
-# my-GITAM-redesign
-UX redesign case study for the GITAM student portal
-# 🎯 My-GITAM Student Portal UX Redesign
+
+# 🎯 My-GITAM Student Portal Redesign
 
 This repository contains a UX case study focused on redesigning the
 My-GITAM student portal to improve usability, clarity, and task completion
